@@ -11,6 +11,6 @@ server-<br>
 ./ds-server -n -c /S1testConfigs/(configFileName).xml lrr <br>
 <br>
 -client-<br>
-1. javac (filename).java
-2. java (filename)
+javac (filename).java<br>
+java (filename)
 
