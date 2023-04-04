@@ -6,5 +6,5 @@ Student Email: Jack.nagle@students.mq.edu.au
 ---
 ## Stage1
 Stage1 submission file is labeled clientStage1.java<br>
-Can be found in the folder Comp3100 - Stage1
+Can be found in the folder Comp3100 - Stage1 | Submission
 
