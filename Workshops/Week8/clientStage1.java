@@ -6,7 +6,7 @@ import java.io.DataOutputStream;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class week8 {
+public class clientStage1 {
 
     // Declares variables 
     static Socket sckt;
@@ -25,7 +25,7 @@ public class week8 {
     static String helo = "HELO";
     static String auth = "AUTH " + System.getProperty("user.name");
     static String redy = "REDY";
-    static String getsAll = "GETS Capable 3 500 1000";
+    static String getsAll = "GETS All";
     static String ok = "OK";
     static String schd = "SCHD";
 
